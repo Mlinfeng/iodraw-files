@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T20:31:27.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="D9rEt6djK3trQVVmocAi" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T20:51:33.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="6Z1VLlww_3pdt1EnTHLW" version="24.2.2" type="github">
   <diagram name="第 1 页" id="E_9ZUGZub5r1t7u37brj">
-    <mxGraphModel dx="1000" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2388" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_085nPTa5El5RhCGtDlV-1" value="&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Research goal: Optimizing the usability and robustness of deep neural network models in resource-constrained AIoT devices&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=none;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="_085nPTa5El5RhCGtDlV-1" value="&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;Optimizing the usability and robustness of deep neural network models in resource-constrained AIoT devices&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=none;fontSize=18;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="100" y="15" width="677" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="_085nPTa5El5RhCGtDlV-2" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Research Question 1:&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;How to improve resource-constrained AIoT device model inference performance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="_085nPTa5El5RhCGtDlV-2" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Research&amp;nbsp;&lt;span style=&quot;font-size: 12px;&quot;&gt;Problem&lt;/span&gt;&amp;nbsp;1:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;bQs2HBA9JiszIpq2pG2n&quot;&gt;How to improve resource-constrained AIoT device model inference performance&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_085nPTa5El5RhCGtDlV-3" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Research question 2:&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;How to improve the local training effect of AIoT in cloud-edge-device integration scenarios&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Comic Sans MS;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="_085nPTa5El5RhCGtDlV-3" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Research&amp;nbsp;&lt;span style=&quot;font-size: 12px;&quot;&gt;Problem&lt;/span&gt;&amp;nbsp;2:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;lc-P7z6Z-aJ5FeURTYUj&quot;&gt;How to improve the local training effect of AIoT in cloud-edge-device integration scenarios&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Comic Sans MS;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="342.75" y="240" width="191.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_085nPTa5El5RhCGtDlV-4" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Research question 3:&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;How to improve the ability of AIoT intelligent models to resist adversarial sample attacks&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="_085nPTa5El5RhCGtDlV-4" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Research&amp;nbsp;&lt;span style=&quot;font-size: 12px;&quot;&gt;Problem&lt;/span&gt;&amp;nbsp;3:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;DUXV7XMvXxbuyo4luQu7&quot;&gt;How to improve the ability of AIoT intelligent models to resist adversarial sample attacks&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="570" y="240" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="b_dZQruKx7hnP9HHT105-1" value="Branched Neural Network" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="b_dZQruKx7hnP9HHT105-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Branched Neural Network&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="430" width="635" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b_dZQruKx7hnP9HHT105-2" value="Cloud and AIoT device collaboration architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;strokeColor=#FF9999;" vertex="1" parent="1">
+        <mxCell id="b_dZQruKx7hnP9HHT105-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Cloud and AIoT device collaboration architecture&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;strokeColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="130" y="500" width="165" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="b_dZQruKx7hnP9HHT105-3" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;federated learning framework&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;strokeColor=#FF9999;" vertex="1" parent="1">
+        <mxCell id="b_dZQruKx7hnP9HHT105-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Federated Learning Framework&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;strokeColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="356" y="500" width="165" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="b_dZQruKx7hnP9HHT105-4" value="&lt;p style=&quot;margin: 0cm 16.8pt 0.0001pt; line-height: 10.5pt; font-size: 13px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Adversarial sample defense framework&lt;/font&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;strokeColor=#FF9999;" vertex="1" parent="1">
+        <mxCell id="b_dZQruKx7hnP9HHT105-4" value="&lt;p style=&quot;margin: 0cm 16.8pt 0.0001pt; line-height: 10.5pt;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Adversarial Sample Defense Framework&lt;/font&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=13;strokeColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="580" y="500" width="165" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="b_dZQruKx7hnP9HHT105-6" value="Cloud server + Raspberry Pi simulation platform" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="b_dZQruKx7hnP9HHT105-6" value="Cloud server + Raspberry Pi simulation platform" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="140" y="680" width="360" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="b_dZQruKx7hnP9HHT105-7" value="Black box attack, White box attack, Migration attack" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="540" y="680" width="220" height="110" as="geometry" />
+        <mxCell id="b_dZQruKx7hnP9HHT105-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Black box attack, White box attack, Migration attack&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="510" y="680" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b_dZQruKx7hnP9HHT105-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.171;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_085nPTa5El5RhCGtDlV-1" target="_085nPTa5El5RhCGtDlV-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b_dZQruKx7hnP9HHT105-17" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;labelBorderColor=#45FFF9;strokeWidth=2;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="88.5" y="210" width="700" height="180" as="geometry" />
+          <mxGeometry x="100" y="215" width="700" height="180" as="geometry" />
         </mxCell>
         <mxCell id="b_dZQruKx7hnP9HHT105-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.171;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,10 +92,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b_dZQruKx7hnP9HHT105-27" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#dae8fc;strokeColor=#00CCCC;glass=0;labelBorderColor=#99FFFF;strokeWidth=4;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="420" width="700" height="220" as="geometry" />
+          <mxGeometry x="100" y="665" width="700" height="140" as="geometry" />
         </mxCell>
         <mxCell id="b_dZQruKx7hnP9HHT105-28" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#dae8fc;strokeColor=#00CCCC;glass=0;labelBorderColor=#99FFFF;strokeWidth=4;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="655" width="700" height="160" as="geometry" />
+          <mxGeometry x="100" y="410" width="700" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="b_dZQruKx7hnP9HHT105-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="77.5" width="70" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b_dZQruKx7hnP9HHT105-31" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Research&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;vVg4drZ5lM5xH7V21xbt&quot; style=&quot;font-size: 15px;&quot;&gt;objectives&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="58.75" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_dZQruKx7hnP9HHT105-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="293.75" width="70" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b_dZQruKx7hnP9HHT105-40" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Research&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Problem&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="275" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_dZQruKx7hnP9HHT105-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="498.75" width="70" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b_dZQruKx7hnP9HHT105-42" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 13px;&quot;&gt;Research Methods&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="480" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_dZQruKx7hnP9HHT105-43" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="723.75" width="70" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b_dZQruKx7hnP9HHT105-44" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Comic Sans MS&quot;&gt;Assessment Method&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="705" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
